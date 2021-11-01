@@ -1,0 +1,14 @@
+<! DOCTYPE html >
+< html  lang = " rus " >
+< голова >
+    < meta  charset = " UTF-8 " >
+    < meta  http-Equiv = " X-UA-Compatible " content = " IE = edge " >
+    < meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " >
+    < title > Новости </ title >
+</ голова >
+< тело >
+< h1  align = " center " > Итальянский ракетный эсминец вошел в Черное море </ h1 >
+< центр >
+< img  src = " ./картинка.jpg " alt = "" >
+</ center >
+< HREF = " https://www.youtube.com/watch?v=zN98vd26fk0&lc=UgxeSgw4k4iHfAz2XM94AaABAg">
